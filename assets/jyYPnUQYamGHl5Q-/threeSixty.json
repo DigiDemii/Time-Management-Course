@@ -1,0 +1,62 @@
+{
+  "version": "3.103.35301.0",
+  "course_id": "6fFh0aODSdW",
+  "title": "s2_l1_scenario",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Intro Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5jZMJgTTVbq",
+      "title": "Intro Slide",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5ciu8brjr5d",
+      "title": "Scene 1",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6hYRMxIbpV4",
+      "title": "Scene 2",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "5szkdZUk4GQ",
+      "title": "Scene 3",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6U3rnj4eLP1",
+      "title": "Scene 4",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "6cl0ZoGWWdn",
+      "title": "Scene 5",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "5dWtgD6SON4",
+      "title": "Scene 6",
+      "scene_index": "1.7"
+    },
+    {
+      "id": "5xjGx6sqSDv",
+      "title": "Results",
+      "scene_index": "1.8"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 980,
+    "height": 560
+  },
+  "stage": {
+    "width": 960,
+    "height": 540
+  }
+}

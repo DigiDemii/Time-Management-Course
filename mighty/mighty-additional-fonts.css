@@ -1,0 +1,29 @@
+
+@font-face {
+  font-family: 'Inclusive Sans';
+  src: url('../lib/fonts/QEDi-hgq1fmNYpK9-InclusiveSans-Bold.woff') format('woff');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inclusive Sans';
+  src: url('../lib/fonts/dIFqTZYx-8c7Hg2J-InclusiveSans-Light.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Inclusive Sans';
+  src: url('../lib/fonts/f4lKyuuyU0jSGkxA-InclusiveSans-LightItalic.woff') format('woff');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Forum';
+  src: url('../lib/fonts/kNSnaDNFhNekUFWK-Forum-Regular.woff') format('woff');
+  font-weight: 400;
+  font-style: normal;
+}
+
